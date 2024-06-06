@@ -1,0 +1,34 @@
+{
+    "produtos": [
+      {
+        "id": "001",
+        "nome": "Mega drive",
+        "preco": "300,99",
+        "imagem": "https://pt.static.webuy.com/product_images/Jogos/MicroConsolas/505527703MM01_l.jpg"
+      },
+      {
+        "id": "002",
+        "nome": "Game Boy",
+        "preco": "169,99",
+        "imagem": "https://hips.hearstapps.com/digitalspyuk.cdnds.net/14/16/gaming-classic-game-boy.jpg"
+      },
+      {
+        "id": "003",
+        "nome": "Phantom System",
+        "preco": "189,99",
+        "imagem": "https://lojinhadomoises.com.br/wp-content/uploads/sites/4754/2023/02/WhatsApp-Image-2023-12-28-at-15.00.25.jpeg"
+      },
+      {
+        "id": "004",
+        "nome": "Brick Game",
+        "preco": "79,99",
+        "imagem": "https://a-static.mlcdn.com.br/450x450/videogame-games-antigos-mini-game-portatil-infantil-com-9999-jogos-em-1-console-movido-a-pilha-kids-online/filialreidoimportado/gh-3835870/385f3bcc9dbdfb63fffe23fdd5fdd51e.jpeg"
+      },
+      {
+        "id": "005",
+        "nome": "Odissey 2",
+        "preco": "799,99",
+        "imagem": "https://worldgamingplayers2015.wordpress.com/wp-content/uploads/2015/01/11287825785.jpg"
+      }
+    ]
+  }
